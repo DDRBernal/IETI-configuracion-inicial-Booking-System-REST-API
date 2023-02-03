@@ -1,5 +1,18 @@
 # IETI-configuracion-inicial-Booking-System-REST-API
 
+## Escuela Colombiana de Ingeniería
+
+# IETI-configuracion-inicial-Booking-System-REST-API
+
+***Integrantes***
+
+```
+Juan Esteban Cortés
+Andrés Felipe Martínez
+David Ricardo Otalora 
+
+```
+
 👉 En Ada School promovemos el aprendizaje basado en proyectos, por eso vas a construir un proyecto integrador a lo largo del curso, en el cual deberás aplicar todo lo que vas aprendiendo.
 Para esta primera parte deberás completar los siguientes pasos:
 
