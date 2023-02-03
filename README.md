@@ -1,5 +1,3 @@
-# IETI-configuracion-inicial-Booking-System-REST-API
-
 ## Escuela Colombiana de Ingeniería
 
 # IETI-configuracion-inicial-Booking-System-REST-API
